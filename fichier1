@@ -3,4 +3,8 @@
  hello
 maison
 ballon
+<<<<<<< HEAD
 la dernière ligne dans le fichier
+=======
+une dernière ligne dans le fichier
+>>>>>>> PremiereBranche
